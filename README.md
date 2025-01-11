@@ -1,1 +1,1 @@
-# simple-text-editor-using-C-
+simple text-editor using C++
